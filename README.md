@@ -47,6 +47,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rajskij/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Rajskij/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rajskij/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Rajskij/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rajskij/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -54,6 +55,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rajskij/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Rajskij/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rajskij/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Rajskij/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rajskij/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -61,6 +63,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rajskij/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Rajskij/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rajskij/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Rajskij/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rajskij/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -68,6 +71,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rajskij/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Rajskij/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rajskij/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Rajskij/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
