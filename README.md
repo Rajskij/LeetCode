@@ -40,3 +40,19 @@ Feel free to fork, star ⭐, or follow!
 If you have suggestions or spot improvements — open an issue or pull request.
 
 🧑‍💻 Happy Coding! 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rajskij/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rajskij/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rajskij/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+<!---LeetCode Topics End-->
