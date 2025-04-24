@@ -15,27 +15,19 @@
  */
 class Solution {
     public int sumNumbers(TreeNode root) {
-        if (root == null) {
-            return 0;
-        }
-
         return sum(root, 0);
     }
 
     private int sum(TreeNode node, int sum) {
+        if (node == null) {
+            return 0;
+        }
+
         int total = sum * 10 + node.val;
-        int left = 0;
-        int right = 0;
         if (node.left == null && node.right == null) {
             return total;
         }
-        if (node.left != null) {
-            left = sum(node.left, total);
-        }
-        if (node.right != null) {
-            right = sum(node.right, total);
-        }
         
-        return left + right;
+        return sum(node.left, total) + sum(node.right, total);
     }
 }
