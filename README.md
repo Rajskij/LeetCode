@@ -93,6 +93,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Rajskij/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rajskij/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Hash Table
 |  |
@@ -111,4 +112,12 @@ If you have suggestions or spot improvements — open an issue or pull request.
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rajskij/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/Rajskij/LeetCode/tree/master/0063-unique-paths-ii) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/Rajskij/LeetCode/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
