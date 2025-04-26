@@ -128,4 +128,12 @@ If you have suggestions or spot improvements — open an issue or pull request.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Rajskij/LeetCode/tree/master/0200-number-of-islands) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Rajskij/LeetCode/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Rajskij/LeetCode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
