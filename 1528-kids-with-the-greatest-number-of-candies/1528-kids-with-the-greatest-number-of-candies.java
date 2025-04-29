@@ -4,17 +4,11 @@ class Solution {
         int maxVal = 0;
 
         for (int i : candies) {
-            if (maxVal < i) {
-                maxVal = i;
-            }
+            maxVal = Math.max(maxVal, i);
         }
 
         for (int i : candies) {
-            if (i + extraCandies >= maxVal) {
-                list.add(true);
-            } else {
-                list.add(false);
-            }
+            list.add(i + extraCandies >= maxVal);
         }
 
         return list;
