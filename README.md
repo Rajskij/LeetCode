@@ -59,6 +59,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rajskij/LeetCode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Rajskij/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rajskij/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rajskij/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -96,6 +97,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Rajskij/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/Rajskij/LeetCode/tree/master/0079-word-search) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rajskij/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Rajskij/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Rajskij/LeetCode/tree/master/0221-maximal-square) |
@@ -127,6 +129,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Rajskij/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/Rajskij/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Rajskij/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Rajskij/LeetCode/tree/master/0221-maximal-square) |
 ## Union Find
@@ -140,6 +143,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rajskij/LeetCode/tree/master/0079-word-search) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Rajskij/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Rajskij/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -150,4 +154,8 @@ If you have suggestions or spot improvements — open an issue or pull request.
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Rajskij/LeetCode/tree/master/0605-can-place-flowers) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Rajskij/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
