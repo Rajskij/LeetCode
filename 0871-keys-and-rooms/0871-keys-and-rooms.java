@@ -12,13 +12,8 @@ class Solution {
         
         while (!keys.isEmpty()) {
             int key = keys.pop();
-            keys.remove(key);
-            List<Integer> curKeys = new ArrayList<>();
-
-            if (key < rooms.size()) {
-                curKeys = rooms.get(key);
-                visited.add(key);
-            }
+            List<Integer> curKeys = rooms.get(key);
+            visited.add(key);
 
             for (Integer k : curKeys) {
                 if (!visited.contains(k)) {
