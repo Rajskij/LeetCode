@@ -7,19 +7,18 @@ class Solution {
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
         Deque<Integer> keys = new ArrayDeque<>();
         Set<Integer> visited = new HashSet<>();
-        keys.push(0);
-        
-        while (!keys.isEmpty()) {
-            int key = keys.pop();
-            visited.add(key);
-
-            for (Integer k : rooms.get(key)) {
-                if (!visited.contains(k)) {
-                    keys.push(k);
-                }
-            }
-        }
+        dfs(rooms, visited, rooms.get(0), 0);
 
         return visited.size() == rooms.size();
+    }
+
+    private void dfs(List<List<Integer>> rooms, Set<Integer> visited, List<Integer> keys, int currentRoom) {
+        visited.add(currentRoom);
+        
+        for (Integer key : keys) {
+            if (!visited.contains(key)) {
+                dfs(rooms, visited, rooms.get(key), key);
+            }
+        }
     }
 }
