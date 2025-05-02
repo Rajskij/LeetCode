@@ -7,15 +7,13 @@ class Solution {
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
         Deque<Integer> keys = new ArrayDeque<>();
         Set<Integer> visited = new HashSet<>();
-        rooms.get(0).forEach(i -> keys.push(i));
-        visited.add(0);
+        keys.push(0);
         
         while (!keys.isEmpty()) {
             int key = keys.pop();
-            List<Integer> curKeys = rooms.get(key);
             visited.add(key);
 
-            for (Integer k : curKeys) {
+            for (Integer k : rooms.get(key)) {
                 if (!visited.contains(k)) {
                     keys.push(k);
                 }
