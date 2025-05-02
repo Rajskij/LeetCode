@@ -5,21 +5,27 @@
 
 class Solution {
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
+        boolean[] visited = new boolean[rooms.size()];
         Deque<Integer> keys = new ArrayDeque<>();
-        Set<Integer> visited = new HashSet<>();
         keys.push(0);
         
         while (!keys.isEmpty()) {
             int key = keys.pop();
-            visited.add(key);
+            visited[key] = true;
 
             for (Integer k : rooms.get(key)) {
-                if (!visited.contains(k)) {
+                if (visited[k] == false) {
                     keys.push(k);
+                    visited[k] = true;
                 }
             }
         }
 
-        return visited.size() == rooms.size();
+        for (boolean isVisited : visited) {
+            if (!isVisited) {
+                return false;
+            }
+        }
+        return true;
     }
 }
