@@ -13,34 +13,22 @@
  *     }
  * }
  */
-// queue -> root 
-// put left, right
-// on each step we wil itarate though the queue of nodes and 
 
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-        Deque<TreeNode> deque = new ArrayDeque<>();
         List<Integer> list = new ArrayList<>();
-        if (root != null) {
-            deque.offer(root);
-        }
-
-        while (!deque.isEmpty()) {
-            int size = deque.size();
-            for (int i = 0; i < size; i++) {
-                TreeNode node = deque.poll();
-                if (i == 0) {
-                    list.add(node.val);
-                }
-                if (node.right != null) {
-                    deque.offer(node.right);
-                }
-                if (node.left != null) {
-                    deque.offer(node.left);
-                }
-            }
-        }
-
+        dfs(root, list, 0);
         return list;
+    }
+
+    private void dfs(TreeNode node, List<Integer> list, int level) {
+        if (node == null) {
+            return;
+        }
+        if (list.size() == level) {
+            list.add(node.val);
+        }
+        dfs(node.right, list, level + 1);
+        dfs(node.left, list, level + 1);
     }
 }
