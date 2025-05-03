@@ -17,12 +17,12 @@ class Solution {
     public TreeNode searchBST(TreeNode root, int val) {
         if (root == null) {
             return null;
-        }
-        if (root.val == val) {
+        } else if (root.val == val) {
             return root;
+        } else if (root.val > val) {
+            return searchBST(root.left, val);
         }
 
-        TreeNode node = searchBST(root.left, val);
-        return node == null ? searchBST(root.right, val) : node;
+        return searchBST(root.right, val);
     }
 }
