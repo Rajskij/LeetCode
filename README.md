@@ -57,6 +57,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 | [0199-binary-tree-right-side-view](https://github.com/Rajskij/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Rajskij/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rajskij/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Rajskij/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Rajskij/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -89,6 +90,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 | [0199-binary-tree-right-side-view](https://github.com/Rajskij/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Rajskij/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rajskij/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Rajskij/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Rajskij/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -177,5 +179,6 @@ If you have suggestions or spot improvements — open an issue or pull request.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Rajskij/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Rajskij/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
