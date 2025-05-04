@@ -9,12 +9,6 @@
 // - then i can go to MAP that stores node as a key and asosiated nodes as a value and go though each value
 // 
 
-// map should be field as
-// 0 -> 1
-// 1 -> 3
-// 2 -> 3
-// 4 -> 0
-// 4 -> 5
 class Solution {
     public int minReorder(int n, int[][] connections) {
         List<List<Integer>> al = new ArrayList<>();
