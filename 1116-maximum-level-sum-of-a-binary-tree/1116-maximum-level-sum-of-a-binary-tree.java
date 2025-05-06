@@ -17,25 +17,23 @@ class Solution {
     public int maxLevelSum(TreeNode root) {
         Deque<TreeNode> deque = new ArrayDeque<>();
         deque.offer(root);
-        int maxSum = Integer.MIN_VALUE;
-        int level = 1;
+        int max = Integer.MIN_VALUE;
         int result = 0;
 
-        while (!deque.isEmpty()) {
+        for (int level = 1; !deque.isEmpty(); level++) {
             int size = deque.size();
-            int currentSum = 0;
+            int current = 0;
 
             for (int i = 0; i < size; i++) {
                 TreeNode node = deque.pop();
-                currentSum += node.val;
+                current += node.val;
                 if (node.left != null) deque.offer(node.left);
                 if (node.right != null) deque.offer(node.right);
             }
-            if (currentSum > maxSum) {
-                maxSum = currentSum;
+            if (current > max) {
+                max = current;
                 result = level;
             }
-            level++;
         }
 
         return result;
