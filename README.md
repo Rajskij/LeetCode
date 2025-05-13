@@ -189,6 +189,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 | [0871-keys-and-rooms](https://github.com/Rajskij/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/Rajskij/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Rajskij/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1916-find-center-of-star-graph](https://github.com/Rajskij/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rajskij/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
