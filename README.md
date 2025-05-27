@@ -116,6 +116,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Rajskij/LeetCode/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Rajskij/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Rajskij/LeetCode/tree/master/0079-word-search) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rajskij/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -127,6 +128,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Rajskij/LeetCode/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rajskij/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1039-find-the-town-judge](https://github.com/Rajskij/LeetCode/tree/master/1039-find-the-town-judge) |
 ## Divide and Conquer
@@ -167,6 +169,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Rajskij/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Rajskij/LeetCode/tree/master/0079-word-search) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Rajskij/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Rajskij/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -196,4 +199,8 @@ If you have suggestions or spot improvements — open an issue or pull request.
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Rajskij/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Rajskij/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Rajskij/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
