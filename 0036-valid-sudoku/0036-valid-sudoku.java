@@ -14,13 +14,7 @@ class Solution {
                     int boxIdx = (i / 3) * 3 + j / 3;
                     Set curBox = boxs.computeIfAbsent(boxIdx, s -> new HashSet<>());
                     
-                    if (curRow.contains(c)) {
-                        return false;
-                    }
-                    if (curColumn.contains(c)) {
-                        return false;
-                    }
-                    if (curBox.contains(c)) {
+                    if (curRow.contains(c) || curColumn.contains(c) || curBox.contains(c)) {
                         return false;
                     }
 
