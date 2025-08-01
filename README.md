@@ -116,6 +116,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Rajskij/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Rajskij/LeetCode/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Rajskij/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Rajskij/LeetCode/tree/master/0079-word-search) |
@@ -130,6 +131,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Rajskij/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Rajskij/LeetCode/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rajskij/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajskij/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -155,6 +157,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Rajskij/LeetCode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/Rajskij/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Rajskij/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Rajskij/LeetCode/tree/master/0200-number-of-islands) |
