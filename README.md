@@ -117,6 +117,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rajskij/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Rajskij/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Rajskij/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Rajskij/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Rajskij/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -159,6 +160,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rajskij/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Rajskij/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rajskij/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Rajskij/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Rajskij/LeetCode/tree/master/0079-word-search) |
@@ -185,6 +187,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rajskij/LeetCode/tree/master/0048-rotate-image) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajskij/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Rajskij/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Greedy
