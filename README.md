@@ -118,6 +118,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rajskij/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Rajskij/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Rajskij/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Rajskij/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Rajskij/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Rajskij/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -158,6 +159,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rajskij/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Rajskij/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Rajskij/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Rajskij/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Rajskij/LeetCode/tree/master/0200-number-of-islands) |
@@ -220,4 +222,8 @@ If you have suggestions or spot improvements — open an issue or pull request.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajskij/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Rajskij/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
