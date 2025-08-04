@@ -1,29 +1,20 @@
 class Solution {
     public List<String> summaryRanges(int[] nums) {
         List<String> list = new ArrayList<>();
-        if (nums.length == 0) return list;
+        StringBuilder sb = new StringBuilder();
 
-        int min = nums[0];
-        int max = min;
-
-        for (int i = 1; i < nums.length; i++) {
-            if (max + 1 == nums[i]) {
-                max = nums[i];
-                continue;
+        for (int i = 0; i < nums.length; i++) {
+            sb.append(nums[i]);
+            int j = i;
+            while (j < nums.length - 1 && nums[j] == nums[j + 1] - 1) {
+                j++;
             }
-            if (min == max) {
-                list.add(min + "");
-            } else {
-                list.add(min + "->" + max);
+            if (i < j) {
+                sb.append("->").append(nums[j]);
             }
-            min = nums[i];
-            max = nums[i];
-        }
-
-        if (min == max) {
-            list.add(min + "");
-        } else {
-            list.add(min + "->" + max);
+            i = j;
+            list.add(sb.toString());
+            sb = new StringBuilder();
         }
 
         return list;
