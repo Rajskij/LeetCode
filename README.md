@@ -127,6 +127,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rajskij/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Rajskij/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Rajskij/LeetCode/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/Rajskij/LeetCode/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/Rajskij/LeetCode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajskij/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0605-can-place-flowers](https://github.com/Rajskij/LeetCode/tree/master/0605-can-place-flowers) |
