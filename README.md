@@ -132,6 +132,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 | [0228-summary-ranges](https://github.com/Rajskij/LeetCode/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/Rajskij/LeetCode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajskij/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rajskij/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Rajskij/LeetCode/tree/master/0605-can-place-flowers) |
 | [1039-find-the-town-judge](https://github.com/Rajskij/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Rajskij/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -201,6 +202,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rajskij/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Rajskij/LeetCode/tree/master/0605-can-place-flowers) |
 ## Backtracking
 |  |
@@ -226,6 +228,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 | [0049-group-anagrams](https://github.com/Rajskij/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Rajskij/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Rajskij/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rajskij/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Design
 |  |
 | ------- |
