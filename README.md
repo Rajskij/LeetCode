@@ -157,6 +157,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Rajskij/LeetCode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rajskij/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Dynamic Programming
 |  |
@@ -190,6 +191,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Rajskij/LeetCode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Rajskij/LeetCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Rajskij/LeetCode/tree/master/0079-word-search) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Rajskij/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Rajskij/LeetCode/tree/master/1894-merge-strings-alternately) |
