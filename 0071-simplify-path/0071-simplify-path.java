@@ -14,6 +14,12 @@ class Solution {
             }
         }
 
-        return "/" + String.join("/", stack);
+        StringBuilder sb = new StringBuilder();
+        while (!stack.isEmpty()) {
+            String str = "/" + stack.pop();
+            sb.insert(0, str);
+        }
+
+        return sb.isEmpty() ? "/" : sb.toString();
     }
 }
