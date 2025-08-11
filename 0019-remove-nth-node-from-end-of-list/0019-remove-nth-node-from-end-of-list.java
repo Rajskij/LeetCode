@@ -21,7 +21,7 @@ class Solution {
             fast = fast.next;
         }
 
-        // Then move both nodes until fast reachs end of list
+        // Then move both nodes until fast reaches end of list
         while (fast.next != null) {
             slow = slow.next;
             fast = fast.next;
