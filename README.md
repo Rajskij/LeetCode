@@ -153,6 +153,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rajskij/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Rajskij/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rajskij/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rajskij/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -188,6 +189,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rajskij/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/Rajskij/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Rajskij/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
