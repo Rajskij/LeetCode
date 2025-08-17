@@ -147,6 +147,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 | [0073-set-matrix-zeroes](https://github.com/Rajskij/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rajskij/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rajskij/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Rajskij/LeetCode/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajskij/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1039-find-the-town-judge](https://github.com/Rajskij/LeetCode/tree/master/1039-find-the-town-judge) |
 ## Divide and Conquer
@@ -164,6 +165,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rajskij/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rajskij/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rajskij/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Rajskij/LeetCode/tree/master/0146-lru-cache) |
 ## Stack
 |  |
 | ------- |
@@ -248,6 +250,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Rajskij/LeetCode/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajskij/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -258,4 +261,8 @@ If you have suggestions or spot improvements — open an issue or pull request.
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rajskij/LeetCode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Rajskij/LeetCode/tree/master/0289-game-of-life) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Rajskij/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
