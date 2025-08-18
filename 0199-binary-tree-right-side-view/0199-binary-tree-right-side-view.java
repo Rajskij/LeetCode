@@ -13,22 +13,20 @@
  *     }
  * }
  */
-
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-        List<Integer> list = new ArrayList<>();
-        dfs(root, list, 0);
-        return list;
+        List<Integer> res = new ArrayList();
+        dfs(root, 0, res);
+
+        return res;
     }
 
-    private void dfs(TreeNode node, List<Integer> list, int level) {
-        if (node == null) {
-            return;
-        }
-        if (list.size() == level) {
-            list.add(node.val);
-        }
-        dfs(node.right, list, level + 1);
-        dfs(node.left, list, level + 1);
+    private void dfs(TreeNode node, int depth, List<Integer> res) {
+        if (node == null) return;
+        if (res.size() == depth) {
+            res.add(node.val);
+        } 
+        dfs(node.right, depth + 1, res);
+        dfs(node.left, depth + 1, res);
     }
 }
