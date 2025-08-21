@@ -180,6 +180,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 | [0005-longest-palindromic-substring](https://github.com/Rajskij/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0063-unique-paths-ii](https://github.com/Rajskij/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0221-maximal-square](https://github.com/Rajskij/LeetCode/tree/master/0221-maximal-square) |
+| [1250-longest-common-subsequence](https://github.com/Rajskij/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -218,6 +219,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 | [0079-word-search](https://github.com/Rajskij/LeetCode/tree/master/0079-word-search) |
 | [0680-valid-palindrome-ii](https://github.com/Rajskij/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Rajskij/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1250-longest-common-subsequence](https://github.com/Rajskij/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Rajskij/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
