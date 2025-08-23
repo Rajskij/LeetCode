@@ -136,6 +136,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 | [0200-number-of-islands](https://github.com/Rajskij/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Rajskij/LeetCode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Rajskij/LeetCode/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/Rajskij/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/Rajskij/LeetCode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rajskij/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rajskij/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -278,4 +279,8 @@ If you have suggestions or spot improvements — open an issue or pull request.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Rajskij/LeetCode/tree/master/0146-lru-cache) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Rajskij/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
