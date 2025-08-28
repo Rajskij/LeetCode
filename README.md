@@ -216,6 +216,7 @@ If you have suggestions or spot improvements — open an issue or pull request.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rajskij/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Rajskij/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/Rajskij/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Rajskij/LeetCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Rajskij/LeetCode/tree/master/0079-word-search) |
